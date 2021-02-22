@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    -->
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorGood">#A2DC61</color>
+    <color name="colorModerate">#FBD651</color>
+    <color name="colorUnhealthySG">#FD9A57</color>
+    <color name="colorUnhealthy">#FF6A6E</color>
+    <color name="colorVUnhealthy">#A97BBC</color>
+    <color name="colorHazardous">#9B5974</color>
+
+    <!--
+    Libre:#A2DC6
+    Maso:#FBD651
+    No tan bien: #FD9A57
+    Insalubre: #FF6A6E
+    Muy Insalubre: #A97BBC
+    Peligroso: #9B5974
+    -->
+</resources>

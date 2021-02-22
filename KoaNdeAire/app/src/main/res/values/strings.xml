@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AireLibre</string>
+
+    <string name="alertMessage">Debe de Activar el GPS para el correcto funcionamiento de la aplicacion!!</string>
+    <string name="btnPos">Aceptar</string>
+    <string name="btnNeg">Cancelar</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    <!--Almacenar valores -->
+    <integer name="save_values">0</integer>
+
+    <string name="city">noactualizado</string>
+    <string name="description">noactualizado</string>
+    <integer name="aqi">0</integer>
+    <string name="status">noactualizado</string>
+    <string name="update">noactualizado</string>
+
+    <!--Url para llamar al scraper-->
+
+</resources>
