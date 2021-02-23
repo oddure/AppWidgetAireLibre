@@ -19,12 +19,15 @@ Está escrito en el lenguaje programación Java con el entorno de desarrollo And
 
 [![Demostracion del widget](https://img.youtube.com/vi/jYrPptpyHyM/mqdefault.jpg)](https://www.youtube.com/watch?v=jYrPptpyHyM)
 
+**Ejecutar**
+- Para el correcto funcionamiento de la app modifique los siguientes archivos:
+ - scrapear_airebot.py (línea 1)
+ - CallProcesos.java (línea 55)
 
 **Observación**
 - Para determinar la ubicación tarda bastante tiempo ya que solo hace uso del GPS y no de algún tipo de proveedor de mapas.
 - No se definió ningún determinado rango de distancia máxima para que se siga pudiendo consultar la información de un sensor, por lo tanto, estando en cualquier parte del país (como es mi caso) e inclusive del mundo la app va a seguir consultando a los sensores como se puede observar en las siguientes imagenes.
-![Figura 1](https://raw.githubusercontent.com/oddure/AppWidgetAireLibre/main/demo/distancia_app.jpg?token=ANSULPWVDDX5PYRYBAQGCGDAGWBPK)
-![Figura 2](https://raw.githubusercontent.com/oddure/AppWidgetAireLibre/main/demo/distancia_navegador.jpg?token=ANSULPRHUSIPBEPHRKZDTTLAGV7NE)
+![Figura 1](https://raw.githubusercontent.com/oddure/AppWidgetAireLibre/main/demo/app_distancia.jpg?token=ANSULPXZMRPZ6OIF7UX7N6TAGWB5U)![Figura 2](https://raw.githubusercontent.com/oddure/AppWidgetAireLibre/main/demo/navegador_distancia.jpg?token=ANSULPU7A6FJMQPJWEVAEUTAGWCGE)
 
 - Para el scraping el algoritmo está escrito en Python (por cierto, que creo es ultra básico jaja).
 - Para finalizar no estoy muy seguro de que el término "scraper, escrapear" exista o se esté utilizando jaja.
