@@ -33,3 +33,6 @@ Está escrito en el lenguaje programación Java con el entorno de desarrollo And
 
 - Para el scraping el algoritmo está escrito en Python (por cierto, que creo es ultra básico jaja).
 - Para finalizar no estoy muy seguro de que el término "scraper, escrapear" exista o se esté utilizando jaja.
+
+**Referencias**
+- Icono del widget: <a target="_blank" href="https://iconos8.es/icons/set/air-instrumentation">Air Instrumentation icon</a> icono de <a target="_blank" href="https://iconos8.es">Icons8</a>
