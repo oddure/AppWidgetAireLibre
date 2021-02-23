@@ -10,8 +10,18 @@ Está escrito en el lenguaje programación Java con el entorno de desarrollo And
 - Utilizando un scraper, se extrae de la página [airelib.re](http://airelib.re/ "airelib.re") la ubicación de los sensores para determinar cual es el más cercano a la posición actual y de acuerdo a eso extraer las demás informaciones (como el AQI y demás). Luego consulta la hora de actualización y se envía a los TextView correspondientes para su visualización.
 - En el caso de que se haya generado el widget las informaciones se actualizan automáticamente cada cierto tiempo, también se puede actualizar de forma manual pulsando el TextView (específicamente que muestra la hora y fecha de actualización) que se encuentra en el widget.
 
+**Demo**
+- Funcionamiento de la aplicación (los enlaces redirigen a YouTube).
+[![Demostracion de la app](https://img.youtube.com/vi/k1bmTfZA_t4/mqdefault.jpg)](https://www.youtube.com/watch?v=k1bmTfZA_t4)
+
+- Actualización de la información desde el widget.
+[![Demostracion del widget](https://img.youtube.com/vi/jYrPptpyHyM/mqdefault.jpg)](https://www.youtube.com/watch?v=jYrPptpyHyM)
+
+
 **Observación**
 - Para determinar la ubicación tarda bastante tiempo ya que solo hace uso del GPS y no de algún tipo de proveedor de mapas.
-- No se definió ningún determinado rango de distancia máxima para que se siga pudiendo consultar la información de un sensor, por lo tanto, estando en cualquier parte del país (como es mi caso) e inclusive del mundo la app va a seguir consultando a los sensores.
+- No se definió ningún determinado rango de distancia máxima para que se siga pudiendo consultar la información de un sensor, por lo tanto, estando en cualquier parte del país (como es mi caso) e inclusive del mundo la app va a seguir consultando a los sensores como se puede observar en las siguientes imagenes.
+![Figura 1](https://raw.githubusercontent.com/oddure/AppWidgetAireLibre/main/demo/distancia_app.jpg)  ![Figura 2](https://raw.githubusercontent.com/oddure/AppWidgetAireLibre/blob/main/demo/distancia_navegador.jpg)
+
 - Para el scraping el algoritmo está escrito en Python (por cierto, que creo es ultra básico jaja).
-- Para finalizar no estoy muy seguro de que el término "scraper" exista o se esté utilizando jaja.
+- Para finalizar no estoy muy seguro de que el término "scraper, escrapear" exista o se esté utilizando jaja.
