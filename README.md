@@ -12,16 +12,19 @@ Está escrito en el lenguaje programación Java con el entorno de desarrollo And
 
 **Demo**
 - Funcionamiento de la aplicación (los enlaces redirigen a YouTube).
+
 [![Demostracion de la app](https://img.youtube.com/vi/k1bmTfZA_t4/mqdefault.jpg)](https://www.youtube.com/watch?v=k1bmTfZA_t4)
 
 - Actualización de la información desde el widget.
+
 [![Demostracion del widget](https://img.youtube.com/vi/jYrPptpyHyM/mqdefault.jpg)](https://www.youtube.com/watch?v=jYrPptpyHyM)
 
 
 **Observación**
 - Para determinar la ubicación tarda bastante tiempo ya que solo hace uso del GPS y no de algún tipo de proveedor de mapas.
 - No se definió ningún determinado rango de distancia máxima para que se siga pudiendo consultar la información de un sensor, por lo tanto, estando en cualquier parte del país (como es mi caso) e inclusive del mundo la app va a seguir consultando a los sensores como se puede observar en las siguientes imagenes.
-![Figura 1](https://raw.githubusercontent.com/oddure/AppWidgetAireLibre/main/demo/distancia_app.jpg)  ![Figura 2](https://raw.githubusercontent.com/oddure/AppWidgetAireLibre/blob/main/demo/distancia_navegador.jpg)
+![Figura 1](https://raw.githubusercontent.com/oddure/AppWidgetAireLibre/main/demo/distancia_app.jpg?token=ANSULPWVDDX5PYRYBAQGCGDAGWBPK)
+![Figura 2](https://raw.githubusercontent.com/oddure/AppWidgetAireLibre/main/demo/distancia_navegador.jpg?token=ANSULPRHUSIPBEPHRKZDTTLAGV7NE)
 
 - Para el scraping el algoritmo está escrito en Python (por cierto, que creo es ultra básico jaja).
 - Para finalizar no estoy muy seguro de que el término "scraper, escrapear" exista o se esté utilizando jaja.
