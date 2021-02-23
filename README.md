@@ -27,7 +27,7 @@ Está escrito en el lenguaje programación Java con el entorno de desarrollo And
 **Observación**
 - Para determinar la ubicación tarda bastante tiempo ya que solo hace uso del GPS y no de algún tipo de proveedor de mapas.
 - No se definió ningún determinado rango de distancia máxima para que se siga pudiendo consultar la información de un sensor, por lo tanto, estando en cualquier parte del país (como es mi caso) e inclusive del mundo la app va a seguir consultando a los sensores como se puede observar en las siguientes imagenes.
-![Figura 1](https://raw.githubusercontent.com/oddure/AppWidgetAireLibre/main/demo/app_distancia.jpg?token=ANSULPXZMRPZ6OIF7UX7N6TAGWB5U)![Figura 2](https://raw.githubusercontent.com/oddure/AppWidgetAireLibre/main/demo/navegador_distancia.jpg?token=ANSULPU7A6FJMQPJWEVAEUTAGWCGE)
+![Figura 1](https://raw.githubusercontent.com/oddure/AppWidgetAireLibre/main/demo/app_distancia.jpg?token=ANSULPV7D3TZTVIQUI54BKLAGWD22)![Figura 2](https://raw.githubusercontent.com/oddure/AppWidgetAireLibre/main/demo/navegador_distancia.jpg?token=ANSULPRVSEDTUTYLTX54YJLAGWD42)
 
 - Para el scraping el algoritmo está escrito en Python (por cierto, que creo es ultra básico jaja).
 - Para finalizar no estoy muy seguro de que el término "scraper, escrapear" exista o se esté utilizando jaja.
